@@ -7,5 +7,5 @@ FintechLab
 ![image](https://user-images.githubusercontent.com/42176005/216840174-37dcadb0-3006-4632-a2dc-4d4a7e14e75e.png)
 ![Screenshot_10](https://user-images.githubusercontent.com/42176005/216840322-bfe98b7e-5774-4b22-844a-9f1c805fdcd8.png)
 ![Screenshot_11](https://user-images.githubusercontent.com/42176005/216840362-42d5df5c-3390-4c62-8599-4b6f4925f9d6.png)
-![Screenshot_8](https://user-images.githubusercontent.com/42176005/216840233-bfc7ac26-cc23-4947-ae92-d8c10499a41d.png)
+![Screenshot_13](https://user-images.githubusercontent.com/42176005/216840587-82abb815-a421-4524-9500-e051eca922a2.png)
 
